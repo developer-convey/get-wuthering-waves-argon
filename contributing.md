@@ -199,4 +199,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Wuthering Waves · Updated 2026-11-22 · Shared under the MIT License*
+*Wuthering Waves · Updated 2026-11-23 · Shared under the MIT License*
